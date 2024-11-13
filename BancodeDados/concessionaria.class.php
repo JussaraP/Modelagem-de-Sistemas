@@ -55,6 +55,23 @@ class Concessionaria{
         return $this;
     }
 
+public function create() {
+    
+}
+
+public function read() {
+    
+}
+
+
+public function update() {
+    
+}
+
+public function delete() {
+    
+}
+
     function __destruct(){  //cria funcao destrutora do objeto
         echo "Objeto Destruido <br>\n";
     }
